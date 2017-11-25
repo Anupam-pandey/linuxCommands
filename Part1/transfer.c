@@ -1,8 +1,8 @@
 
 /** Program to implement tr command of Unix **/
 
-/***	Name		: A Adithya	***/
-/***	Roll NO		: 20162116	***/
+/***	Name		:Anupam	***/
+/***	Roll NO		: 20162118	***/
 
 #include <stdio.h>
 #include <stdlib.h>
